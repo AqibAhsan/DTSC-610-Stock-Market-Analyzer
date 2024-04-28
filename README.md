@@ -1,5 +1,7 @@
 ### DTSC-610-Stock-Market-Analyzer
 
+https://finance.yahoo.com/most-active?count=100&offset=0&guccounter=1
+
 We used Pandas for time-series manipulation and matplotlib/seaborn for visualization. Also implemented moving averages to identify trends, highlighting crossovers for potential reversals. 
 Additionally, simulated future stock price movements based on historical volatility, utilizing mathematical functions and numpy for efficient computations.
 
